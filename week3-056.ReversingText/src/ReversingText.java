@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class ReversingText {
 
     public static String reverse(String text) {
-        int i = text.length() -1;
+        int i = text.length() -1;   //Characters in a string start at at an index of 0. Therefore the last character of the String "text" will be found with .length() -1
         String reversal = "";
         while (i >= 0) {
             char character = text.charAt(i);
