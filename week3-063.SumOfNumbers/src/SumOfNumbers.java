@@ -3,11 +3,11 @@ import java.util.ArrayList;
 public class SumOfNumbers {
     public static int sum(ArrayList<Integer> list) {
         // Write your code here
-        int sumitup = 0;
+        int sum = 0;
         for (int n : list) {
-            sumitup += n;
+            sum += n;
         }
-        return sumitup;
+        return sum;
     }
 
     public static void main(String[] args) {
