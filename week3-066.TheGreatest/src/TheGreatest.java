@@ -1,10 +1,10 @@
 import java.util.ArrayList;
 
 public class TheGreatest {
-    public static int greatest(ArrayList<Integer> list) {
+    public static int greatest(ArrayList<Integer> listb) {
         // write code here
-        int n = list.get(0);
-        for (int a : list) {
+        int n = listb.get(0);
+        for (int a : listb) {
             if (n < a){
                 n = a;
             }

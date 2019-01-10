@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0ea95dd-5cfa-48be-9a8d-0ed6c6afd567" name="Default Changelist" comment="" />
+    <list default="true" id="b0ea95dd-5cfa-48be-9a8d-0ed6c6afd567" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/week3-066.TheGreatest/src/TheGreatest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3-066.TheGreatest/src/TheGreatest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-067.TheVariance/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/week3-067.TheVariance/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-067.TheVariance/src/Variance.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3-067.TheVariance/src/Variance.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +42,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -54,6 +57,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -90,7 +94,7 @@
   <component name="ToolWindowManager">
     <frame x="346" y="336" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26119402" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26492536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
